@@ -10,7 +10,12 @@ It is designed for beginners who want to learn how to:
 - Download files
 - Handle errors
 - Work with folders
-
+  
+## Internship Details
+- Name : Sahil Rawal
+- Intern ID : CITS4175
+- Organistation : CODTECH
+- 
 ## Features
 
 - Download YouTube videos
